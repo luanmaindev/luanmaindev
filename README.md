@@ -1,14 +1,14 @@
-## Oii! Eu sou o Luan Fernando
+## Oiii eu sou o Luan Fernando, desenvolvedor apaixonado!
 <div align="center">
   <a href="https://github.com/luanmaindev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmaindev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmaindev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmaindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmaindev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://cdn-icons-png.flaticon.com/512/9042/9042670.png">
+  <img align="right" alt="Luan-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif?cid=790b7611mytlrf0cepqhdjus1iber5qa9xsap57nlkkrj1zb&rid=giphy.gif&ct=s">
 </div>
   
   ##
